@@ -1,8 +1,14 @@
 # KNP
 MARS base model for Kruger National Park, South Africa.
-You can access the Kruger National Park base model (see Clemen et al., 2021 for more info) by:
 
-Navigate to the 'KNP Base Model' folder and follow the instructions below:
+Clemen, T., Lenfers, U.A., Dybulla, J., Ferreira, S.M., Kiker, G.A., Martens, C., Scheiter, S., 2021. A cross-scale modeling framework for decision support on elephant management in Kruger National Park, South Africa. Ecol. Inform. 62, 101266. doi:10.1016/j.ecoinf.2021.101266
+
+Because of the file size limits we cannot longer provide model box deployments for different architectures. 
+Please contact thomas.clemen@haw-hamburg.de in order to receive a download link.
+
+## Run model
+
+Download the deployment from your received link then navigate to the 'KNP Base Model' folder and follow the instructions below:
 
 ### Start the simulation
 
