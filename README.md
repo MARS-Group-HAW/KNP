@@ -1,7 +1,7 @@
 # KNP
 MARS base model for Kruger National Park, South Africa.
 
-Clemen, T., Lenfers, U.A., Dybulla, J., Ferreira, S.M., Kiker, G.A., Martens, C., Scheiter, S., 2021. A cross-scale modeling framework for decision support on elephant management in Kruger National Park, South Africa. Ecol. Inform. 62, 101266. doi:10.1016/j.ecoinf.2021.101266
+Clemen, T., Lenfers, U.A., Dybulla, J., Ferreira, S.M., Kiker, G.A., Martens, C., Scheiter, S., 2021. A cross-scale modeling framework for decision support on elephant management in Kruger National Park, South Africa. Ecol. Inform. 62, 101266. https://doi.org/10.1016/j.ecoinf.2021.101266
 
 Because of the file size limits we cannot longer provide model box deployments for different architectures. 
 Please contact thomas.clemen@haw-hamburg.de in order to receive a download link.
