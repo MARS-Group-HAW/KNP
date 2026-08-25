@@ -1,4 +1,10 @@
 # KNP
+
+> **⚠️ Deprecated:** This repository is archived and kept only as the historical companion code for the
+> paper cited below. The actively maintained model lives at
+> [MARS-Group-HAW/model-knp](https://github.com/MARS-Group-HAW/model-knp) — please use that repository
+> going forward.
+
 MARS base model for Kruger National Park, South Africa.
 
 Clemen, T., Lenfers, U.A., Dybulla, J., Ferreira, S.M., Kiker, G.A., Martens, C., Scheiter, S., 2021. A cross-scale modeling framework for decision support on elephant management in Kruger National Park, South Africa. Ecol. Inform. 62, 101266. https://doi.org/10.1016/j.ecoinf.2021.101266
